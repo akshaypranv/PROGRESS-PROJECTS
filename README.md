@@ -14,3 +14,8 @@ A creative exercise in geometric styling and CSS layouts.
 A design-to-code project focusing on typography and visual hierarchy.
 * **Technicals:** Practice with CSS external font integration, text-alignment, and container spacing.
 * **Objective:** Mastering the aesthetic balance between HTML structure and CSS presentation.
+
+### 🏢 Web Design Agency Landing Page
+A business-facing landing page project that implements multi-column layouts and professional typography standards.
+* **Technicals:** Leveraged the `float` property for sophisticated element positioning, custom `text-decoration` for interactive UI elements, and full-width header "hero" sections.
+* **Objective:** Mastering the transition from single-column documents to multi-column business layouts. Focused on content alignment and creating a visual "flow" for a professional agency brand.
