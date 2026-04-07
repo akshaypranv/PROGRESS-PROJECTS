@@ -29,3 +29,8 @@ A SaaS-style pricing component designed to demonstrate **Fluid Layout Transition
 A technical study in **Abstract UI Composition** using the **CSS Grid** engine.
 * **Technicals:** Mastered **Line-Based Placement** and **Spanning Logic** to create a non-uniform coordinate system.
 * **Objective:** To build complex, irregular layouts using **Fractional Geometry** and **Box Model Precision** for surgical element placement.
+
+### 🐕 TinDog: Responsive Landing Page Architecture
+A professional, mobile-first landing page engineered with **Bootstrap 5** to demonstrate **Commercial-Grade UI Scaffolding**. This project focuses on modular component architecture and fluid grid transitions.
+* **Technicals:** Mastered **12-Column Grid Logic** and **Component-Driven UI**, implementing high-impact Hero sections, Testimonial Carousels, and FontAwesome integration.
+* **Objective:** Gained absolute control over **Framework-Based Rapid Prototyping**. Practiced the implementation of complex multi-section layouts to ensure a cohesive, responsive user experience across all device categories.
